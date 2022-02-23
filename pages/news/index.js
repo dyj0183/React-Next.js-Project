@@ -1,4 +1,4 @@
-// route: our-domain.com/news, the file name will be the route name
+// route: our-domain.com/news, the folder and file name will match the route
 
 // standard React component goes here
 const NewsPage = () => {
