@@ -1,7 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Overview
-This is my first React Next.js project. I used it to learn and practice Next.js.
+This is my first React Next.js project. I used it to practice navigating between different components (files) by using Link from Next.js. I also used useRouter to get dynamic query parameter and printed it out on the screen.
+
+I first ran "npx create-next-app" to create this project and gave it a project name "nextjs".
 
 ## Getting Started
 
