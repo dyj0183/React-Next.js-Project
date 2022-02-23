@@ -10,8 +10,8 @@ const NewsPage = () => {
 		<Fragment>
 			<h1>Welcome to Yu-Chun News Page!</h1>
 			<ul>
-				<li><Link href="/news/nextjs-framework">NextJS Is A Cool Full-Stack Framework</Link></li>
-				<li>Fun News Here</li>
+				<li><Link href="/news/nextjs-framework-is-awesome">NextJS Is A Cool Full-Stack Framework</Link></li>
+				<li><Link href="/news/i-love-coding">Fun News Here</Link></li>
 			</ul>
 		</Fragment>
 	);
